@@ -21,11 +21,11 @@ jupyter:
 
 ## Installation
 ### Install R
-Install R [https://www.r-project.org/](https://www.r-project.org/) and confirm that it runs properly on your computer.
+Install R [https://www.r-project.org/](https://www.r-project.org/) and make sure that it runs properly on your computer.
 
 ### Install integrated development environment (IDE)
 
-Install RStudio ([https://rstudio.com/](https://rstudio.com/)) or Jupyter ([https://jupyter.org/](https://jupyter.org/)) + IRkernel and make sure that you can open this file in either of these tools (.Rmd for Rstudio and .ipynb for Jupyter).
+Install RStudio ([https://rstudio.com/](https://rstudio.com/)) or Jupyter ([https://jupyter.org/](https://jupyter.org/))+IRkernel and make sure that you can open this file in either of these tools (.Rmd for Rstudio and .ipynb for Jupyter).
 
 (Tip: RStudio is an IDE specifically designed for R and is recommended if you focus only on R. Jupyter can handle multiple languages by switching kernels (e.g., Python, Julia, etc.))
 
