@@ -22,7 +22,7 @@ Run the following R code to load {MathEpiDrill} package on the working space.
 Do some calculation using basic operators in R, for example, +, -, *, /, %/%, ^, etc.
 
 ### Math functions
-Try some math functions, for example, exponential, trigonomaetric functions, and others.
+Try some math functions, for example, exponential, trigonometric functions, and others.
 
 ### Variable
 
