@@ -55,3 +55,19 @@ Explain
 * direct/indirect effect
 * leaky/all-or-nothing vaccine
 
+## Differential equation and ODE mdoels
+### Variable separation
+Solve a differential equation: dx(t)/dt = kx(t).
+
+### Catalytic model
+Catalytic model is represented as i(a) = 1 - exp(-λa), where i(a) is the proportion seropositive at age a. How is this derived and what are the key assumptions? What is the meaning of λ?
+
+### SIR model
+
+### Assumptions in SIR model
+
+### SIR variants
+Check well-known variants of SIR-type (i.e., compartmental) models, such as SI, SIS, SIRS, and SEIR models.
+
+### deSolve package
+Use {deSolve} to implement the SIR model. Try different sets of parameters corresponding to both R0 > 1 and R0 < 1. 
