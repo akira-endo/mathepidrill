@@ -35,6 +35,13 @@ Try some math functions, for example, exponential, trigonometric functions, and 
 ### User-defined function
 
 ## Terminology: infectious disease epidemiology
+### Transmission dynamics
+Explain
+* basic reproduction number (R0)
+* effective reproduction number (Rt)
+* herd immunity
+* initial case / primary case / secondary case
+
 ### Time intervals
 Explain
 * incubation period
