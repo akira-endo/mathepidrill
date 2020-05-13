@@ -23,9 +23,8 @@ Do some calculation using basic operators in R, for example, +, -, *, /, %/%, ^,
 
 ### Math functions
 Try some math functions, for example, exponential, trigonomaetric functions, and others.
-Please see some paper that uses exponential distribution to estimate something (Ideas to be updated).
+Please see some paper that uses exponential distribution to estimate something (Ideas to be updated)
 
-Try optim(), ode(), etc.
 
 ### Variable
 
@@ -43,6 +42,13 @@ Try ggplot() etc.
 Try to create one function whatever. (Some mathematical one?)
  
 ## Terminology: infectious disease epidemiology
+### Transmission dynamics
+Explain
+* basic reproduction number (R0)
+* effective reproduction number (Rt)
+* herd immunity
+* initial case / primary case / secondary case
+
 ### Time intervals
 Explain
 * incubation period
@@ -58,3 +64,19 @@ Explain
 * direct/indirect effect
 * leaky/all-or-nothing vaccine
 
+## Differential equation and ODE mdoels
+### Variable separation
+Solve a differential equation: dx(t)/dt = kx(t).
+
+### Catalytic model
+Catalytic model is represented as i(a) = 1 - exp(-λa), where i(a) is the proportion seropositive at age a. How is this derived and what are the key assumptions? What is the meaning of λ?
+
+### SIR model
+
+### Assumptions in SIR model
+
+### SIR variants
+Check well-known variants of SIR-type (i.e., compartmental) models, such as SI, SIS, SIRS, and SEIR models.
+
+### deSolve package
+Use {deSolve} to implement the SIR model. Try different sets of parameters corresponding to both R0 > 1 and R0 < 1. 
