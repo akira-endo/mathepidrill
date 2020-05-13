@@ -22,18 +22,25 @@ Run the following R code to load {MathEpiDrill} package on the working space.
 Do some calculation using basic operators in R, for example, +, -, *, /, %/%, ^, etc.
 
 ### Math functions
-Try some math functions, for example, exponential, trigonometric functions, and others.
+Try some math functions, for example, exponential, trigonomaetric functions, and others.
+Please see some paper that uses exponential distribution to estimate something (Ideas to be updated)
+
 
 ### Variable
 
 ### Vector
 
 ### Matrix
+Please explain and calculate determinants and inverse matrix.
 
 ### List
 
-### User-defined function
+### Graphics
+Try ggplot() etc.
 
+### User-defined function
+Try to create one function whatever. (Some mathematical one?)
+ 
 ## Terminology: infectious disease epidemiology
 ### Transmission dynamics
 Explain
@@ -48,6 +55,8 @@ Explain
 * latent period
 * serial interval
 * generation time
+
+Please look up some paper how to estimate (i.e. which distribution are they regarded to follow?) these indexes above. 
 
 ### Vaccines
 Explain
